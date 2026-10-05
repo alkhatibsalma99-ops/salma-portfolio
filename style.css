@@ -272,3 +272,19 @@ footer {
   background: #f3f4f6;
   color: #4b5563;
 }
+.hero-buttons {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
+
+.secondary-button {
+  background: white;
+  color: #111827;
+  border: 1px solid #d1d5db;
+}
+
+.secondary-button:hover {
+  background: #f3f4f6;
+}
